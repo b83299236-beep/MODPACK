@@ -1,1 +1,7 @@
-
+{
+  "version": "1.1.8",
+  "url": "https://github.com/b83299236-beep/MODPACK/releases/download/v1.1.8/modpack.zip",
+  "sha256": "",
+  "notes": "Ajout auto-update + fix crash serveur",
+  "mandatory": false
+}
